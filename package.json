@@ -1,0 +1,19 @@
+{
+  "name": "data-social-share-click",
+  "description": "Share the current page url accross social networks. No icons, no CSS, no dependencies, just link sharing",
+  "license": "WTFPL",
+  "keywords": [
+    "social-share",
+    "facebook","twitter","linkedIn","google+"
+  ],
+  "version": "0.0.1",
+  "dependencies": {},
+  "author": {
+    "name": "DavidMars"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidmars/data-social-share-click.git"
+  },
+  "main": "src/DataSocialShareClick.js"
+}
