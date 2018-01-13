@@ -4,11 +4,19 @@ Share current page url across social networks. No more.
 
 No icons, no CSS, no UI, no effects, no dependencies.
 
+## Install
+
+Node
+
+```
+npm install data-social-share-click --save
+```
+
 ##Usage
 
 Javascript
 ```javascript
-import DataSocialShareClick from "DataSocialShareClick";
+import DataSocialShareClick from "data-social-share-click";
 let socialShares=new DataSocialShareClick();
 socialShares.listenClicks();
 ```

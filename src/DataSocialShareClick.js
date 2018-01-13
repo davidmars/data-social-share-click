@@ -14,7 +14,7 @@ export default class DataSocialShareClick{
      * Start listenning the data-social-share-click clicks on document.
      * Should be called once.
      */
-    static listenClicks(){
+    listenClicks(){
         let attr="data-social-share-click";
         let selector="["+attr+"]";
         document.addEventListener("click", function(e) {
