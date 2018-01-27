@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git://github.com/davidmars/data-social-share-click.git"
   },
-  "main": "src/DataSocialShareClick.js",
+  "main": "src/data-social-share-click.js",
   "dependencies": {
     "babel-preset-es2015": "^6.24.1"
   }
