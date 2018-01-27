@@ -12,7 +12,7 @@ Node
 npm install data-social-share-click --save
 ```
 
-##Usage
+## Usage
 
 Javascript
 ```javascript
