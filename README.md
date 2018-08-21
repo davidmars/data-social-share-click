@@ -29,7 +29,7 @@ Html
 <a href="#" data-social-share-click="linkedIn">LinkedIn</button>
 ```
 
-##What does it do?
+## What does it do?
 
 When the script is included, it listens for click events on document. 
 When a click occurs on element with `data-social-share-click="facebook"` attribute, 
